@@ -45,3 +45,7 @@
 
 ---
 
+
+## _LeetCode Status_
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vitoreism?theme=dark&font=IBM%20Plex%20Sans%20Thai)
