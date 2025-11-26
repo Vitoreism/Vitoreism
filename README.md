@@ -43,6 +43,10 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoreism&layout=compact&theme=dracula)
+
 
 ## _LeetCode Status_
 
