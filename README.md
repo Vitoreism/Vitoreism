@@ -1,7 +1,5 @@
 # Hi there, I'm Vitor👋
 
-### Welcome to my github profile!
-
 ---
 
 ## 🙋‍♂️ About Me
